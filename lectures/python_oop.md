@@ -202,7 +202,7 @@ We'll build a `Consumer` class with
 
 * a `wealth` attribute that stores the consumer's wealth (data)
 * an `earn` method, where `earn(y)` increments the consumer's wealth by `y`
-* a `spend` method, where `spend(x)` either decreases wealth by `x` or returns an error if insufficient funds exist
+* a `spend` method, where `spend(x)` either decreases wealth by `x` or spend(x) either decreases wealth by x or prints a message if insufficient funds exist. if insufficient funds exist
 
 Admittedly a little contrived, this example of a class helps us internalize some peculiar syntax.
 
