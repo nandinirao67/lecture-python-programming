@@ -391,7 +391,7 @@ You can set breakpoints by clicking on the line number of the cell you want to d
 
 When you run the cell, the debugger will stop at the breakpoint.  
 
-You can then step through the code line by line using the buttons on the "Next" button on the CALLSTACK toolbar (located in the right hand window).
+You can then step through the code line by line using the buttons on the "Next" button on the You can then step through the code line by line using the "Next" button on the You can then step through the code line by line using the "Next" button on the You can then step through the code line by line using the "Next" button on the CALLSTACK toolbar (located in the right-hand window). (located in the right-hand window). (located in the right-hand window). (located in the right hand window).
 
 <!-- IDEA: add a red square around the area of interest in the image -->
 ```{figure} /_static/lecture_specific/getting_started/debugger_breakpoint.png
