@@ -65,7 +65,7 @@ import matplotlib.pyplot as plt
 
 OOP is supported in many languages:
 
-* JAVA and Ruby are relatively pure OOP.
+* Java and Ruby are relatively pure OOP. 
 * Python supports both procedural and object-oriented programming.
 * Fortran and MATLAB are mainly procedural, some OOP recently tacked on.
 * C is a procedural language, while C++ is C with OOP added on top.
